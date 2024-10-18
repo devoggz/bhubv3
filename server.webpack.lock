@@ -1,0 +1,5 @@
+{
+  "https://res.cloudinary.com/da78kkchf/video/upload/v1727781397/Yellow_Black_Modern_Motorcycle_Sale_clqcyv.mp4": { "integrity": "sha512-pN00rxLg+/RXbHmr9TzIYYYWJNAGMoUJR7TbdLWK0rWIGCMQH5iu/BRVT67YMvBb6sHjW1GGp+ZNgD8j+qi9cg==", "contentType": "video/mp4;codecs=avc1" },
+  "https://videos.pexels.com/video-files/856925/856925-hd_1920_1080_25fps.mp4": { "integrity": "sha512-5v8226WpWKxewDtsUD8xJY5MbHd1UehBPa0Yte1Jb2hSY7Pyuz3RymnmsywqmUIUBdW6dQy1vy/c0no1CLBRWw==", "contentType": "" },
+  "version": 1
+}
